@@ -1,1 +1,1 @@
-simple text file
+simple text file for __dirfile and files

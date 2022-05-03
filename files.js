@@ -6,7 +6,7 @@ console.warn(dirPath);
 
 // for (i = 0; i < 2; i++) {
 //   fs.writeFileSync(dirPath + "/helloWorld" + i + ".txt", "simple text file");
-//   //   fs.writeFileSync({dirpath}`/helloWorld${i}.txt`, "a simple text file");
+//     fs.writeFileSync(`${dirPath}/helloWorld${i}.txt`, "simple text file for __dirfile and files");
 // }
 
 fs.readdir(dirPath, (err, files) => {
